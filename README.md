@@ -12,17 +12,17 @@
 
 
 
-<h2 id="linguagens">Linguagens utilizadas</h2>
+<h2 id="linguagens">🛠 Linguagens utilizadas</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Javascript</li>
 </ul>
 
-<h2 id="objetivo">Objetivo</h2>
+<h2 id="objetivo">🎯 Objetivo</h2>
 <p>O principal objetivo é colocar em prática os conceitos abordados no curso, conseguir aplicar o que foi aprendido em um cenário de game.</p>
 
-<h2 id="funcoes">Principais Funções</h2>
+<h2 id="funcoes">⚙ Principais Funções</h2>
 <h3>Decremento e incremento de valor das propriedades de forma dinâmica</h3>
 <p>Manipulando valores de uma coleção de dados , passando valores recebidos pelo usúario, tudo isso manipulado pelos botões de incremento e decremento.</p>
 
